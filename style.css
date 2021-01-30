@@ -10,4 +10,12 @@ body {
   }
   .card{
       background-color:#b1b1b1 ;
+      margin-left: auto;
   }
+.table-striped{
+  margin-top: 50px;
+}
+.card1{
+  margin-left: auto;
+  background-color:#b1b1b1 ;
+}
