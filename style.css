@@ -4,12 +4,12 @@ body {
   }
   @media screen and (prefers-color-scheme: light) {
     body {
-      background-color: white;
-      color: black;
+      background-color: #222831;
+      color: #eeeeee;
     }
   }
   .card{
-      background-color:#b1b1b1 ;
+      background-color:#393e46;
       margin-left: auto;
   }
 .table-striped{
@@ -17,5 +17,5 @@ body {
 }
 .card1{
   margin-left: auto;
-  background-color:#b1b1b1 ;
+  background-color:#393e46 ;
 }
